@@ -1,0 +1,1 @@
+{"name":"aws-bedrock-connector","version":"1.0","title":"AWS Bedrock Connector","description":"Integrate AWS Bedrock with Tray.io to enable AI capabilities in workflows.","service":{"name":"aws-bedrock","version":"1"},"tags":["service"],"isTrigger":false,"rawHttp":{"enabled":true}}
